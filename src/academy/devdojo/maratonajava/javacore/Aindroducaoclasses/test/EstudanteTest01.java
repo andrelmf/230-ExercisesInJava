@@ -9,7 +9,7 @@ public class EstudanteTest01 {
         Estudante estudante02 = new Estudante();
         ImpressoraEstudante impressora = new ImpressoraEstudante();
 
-        estudante01.nome = "Luffy";
+        estudante01.nome = "Midoriya";
         estudante01.idade = 21;
         estudante01.sexo = 'M';
 
